@@ -86,3 +86,15 @@ Run the ComparatorChainization_Process.ipynb notebook to train the comparator mo
 ## License
 
 This project is licensed under the MIT License.
+
+## Authors
+
+- **Adaeze Okeukwu-Ogbonnaya**
+  Main Contributor    
+
+- **Rahul Amatapu**  
+  Undergraduate Research Assistant (REU Program)
+  The University of Kansas  
+  GitHub: [https://github.com/rahulamatapu/]
+
+
