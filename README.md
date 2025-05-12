@@ -49,6 +49,19 @@ Notebook for:
 - Training the neural pairwise comparator.
 - Applying the chainization method to generate global repair prioritization from the collected persona preferences.
 
+
+### Community Hetero-Functional Graph Model (`data/community_hfg_model.graphml`)
+This folder contains the hetero-functional graph (HFG) used to model interdependent infrastructure across three communities. The graph represents:
+- Nodes as infrastructure functionalities (e.g., water supply to a residential zone).
+- Edges as technical dependencies between functionalities (e.g., power needed for a water pump).
+- Multiple sectors including power, water, and community-based services.
+
+The HFG is used to derive a partial order of infrastructure repair decisions based on system constraints. This graph forms the technical foundation of the simulation by defining feasible sequences of repairs, which are then refined using community preferences obtained from LLM-generated personas.
+
+### Image of Toy Community Model('image/')
+The image of the above community model can be found here.
+
+
 ### Additional Prompt Details
 Detailed prompt templates and variations used in these experiments are provided in the file `Extra_Data_Information.pdf`. This file includes the exact wording, tone, and structure used.
 
