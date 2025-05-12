@@ -65,7 +65,7 @@ cd CommRank-HFG
    
 Execute the notebooks to generate persona responses and prepare the choice data.
 
-4. Process the data:
+3. Process the data:
    
 Run the ComparatorChainization_Process.ipynb notebook to train the comparator model and generate the repair prioritization.
 
