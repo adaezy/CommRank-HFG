@@ -83,6 +83,10 @@ Execute the notebooks to generate persona responses and prepare the choice data.
 Run the ComparatorChainization_Process.ipynb notebook to train the comparator model and generate the repair prioritization.
 
 
+## Full Paper
+LLM-Based Community Surveys for Operational Decision Making in Interconnected Utility Infrastructures
+Link: https://arxiv.org/abs/2507.13577
+
 ## License
 
 This project is licensed under the MIT License.
