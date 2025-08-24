@@ -85,6 +85,7 @@ Run the ComparatorChainization_Process.ipynb notebook to train the comparator mo
 
 ## Full Paper
 LLM-Based Community Surveys for Operational Decision Making in Interconnected Utility Infrastructures
+
 Link: https://arxiv.org/abs/2507.13577
 
 ## License
